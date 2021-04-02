@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**fumiama/fumiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#rndbg {
+    border-radius: 25px;
+    background: url(https://raw.githubusercontent.com/fumiama/fumiama/main/pcb.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p id="rndbg"></p>

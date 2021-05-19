@@ -1,4 +1,4 @@
 
 
-<img src="https://api.paugram.com/wallpaper" style="border: 1px solid #ddd; border-radius: .5em">
+<img src="pcb.jpg" style="border: 1px solid #ddd; border-radius: .5em">
 

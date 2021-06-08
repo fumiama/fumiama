@@ -1,6 +1,10 @@
 # Welcome(◍˃̶ᗜ˂̶◍)✩
 
-<img src="http://pan.fumiama.top:42412/cmoe?name=fumiama&theme=gb" style="float:middle" />
+
+<center>
+<img src="http://pan.fumiama.top:42412/cmoe?name=fumiama&theme=gb"/>
+</center>
+
 
 ![pcb](pcb.jpg)
 

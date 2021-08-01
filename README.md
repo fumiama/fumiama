@@ -1,7 +1,7 @@
 # Welcome(◍˃̶ᗜ˂̶◍)✩
 
 <div align="center">
-  <img src="http://pan.fumiama.top:42412/cmoe?name=fumiama&theme=r34" />
+  <img src="http://sayuri.fumiama.top/cmoe?name=fumiama&theme=r34" />
 </div>
 
 

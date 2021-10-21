@@ -1,9 +1,12 @@
 # Welcome(◍˃̶ᗜ˂̶◍)✩
 
-<div align="center">
+
+<div align="right">
   <img src="http://sayuri.fumiama.top/cmoe?name=fumiama&theme=r34" />
 </div>
 
+
+> 欢迎光临！
 
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="http://sayuri.fumiama.top/cmoe?name=fumiama&theme=r34" />
+  <img src="http://cmoe.azurewebsites.net/cmoe?name=fumiama&theme=r34" />
 </div>
 
 

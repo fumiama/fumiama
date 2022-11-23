@@ -1,6 +1,6 @@
 # Welcome(◍˃̶ᗜ˂̶◍)✩
 
-<img align='right' src='https://cmoe.azurewebsites.net/c302?' width='360px'>
+<img align='right' src='https://cmoe.azurewebsites.net/c302?' width='400px'>
 
 <p align="center">
   <img src='http://cmoe.azurewebsites.net/cmoe?name=fumiama&theme=r34'>

@@ -1,16 +1,11 @@
 # Welcome(◍˃̶ᗜ˂̶◍)✩
 
+<img align='right' src='https://cmoe.azurewebsites.net/c302?' width='410px'>
 
-<div align="center">
-  <img src="http://cmoe.azurewebsites.net/cmoe?name=fumiama&theme=r34" />
-</div>
+![cmoe](http://cmoe.azurewebsites.net/cmoe?name=fumiama&theme=r34)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumiama&layout=compact" width="350px"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumiama&layout=compact" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fumiama&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="417px"/>
-</div>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=fumiama&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="417px"/>
 
 ![pcb](pcb.jpg)

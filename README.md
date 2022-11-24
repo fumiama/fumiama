@@ -1,4 +1,8 @@
-# Welcome(◍˃̶ᗜ˂̶◍)✩
+<div align="center">
+  <h1>Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
+  I mainly use Golang, C, Asm, Kotlin and Python.<br><br>
+</div>
+
 
 <img align='right' src='https://cmoe.azurewebsites.net/c302?' width='400px'>
 

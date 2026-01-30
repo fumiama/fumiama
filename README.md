@@ -6,7 +6,7 @@
 </div>
 
 
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
+<img align='right' src='https://counter.seku.su/c302?' height='980px'>
 
 <p align="center">
   <br/><br/>

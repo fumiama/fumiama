@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">fumiama&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 6148, Total Commits  (last year) : 423, Total PRs: 391, Total Issues: 45, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 6150, Total Commits  (last year) : 423, Total PRs: 391, Total Issues: 45, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.16155104259617;
+        stroke-dashoffset: 20.161333033133985;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >6.1k</text>
+      >6.2k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
